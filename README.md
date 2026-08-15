@@ -1,42 +1,34 @@
-# Petty Cash Management
+# Petty Cash
 
-A business application designed to support petty cash transaction
-management and streamline routine financial operations.
+A mobile petty cash management solution designed to simplify expense entry,
+transaction tracking, review, and status updates.
 
 ## Overview
 
-The application provides a centralized interface for managing petty
-cash transactions and monitoring their processing status.
+The application provides a centralized experience for recording petty cash
+expenses and monitoring transactions.
 
-It helps users reduce repetitive manual work and provides a more
-structured way to handle transaction updates.
+Users can review expenses, filter transactions, add new expenses, and update
+the status of selected transactions.
 
 ## Key Capabilities
 
-- Petty cash transaction management
-- Transaction status tracking
-- Search and review of transactions
-- Bulk status updates
-- Centralized transaction data
-- Reduced repetitive manual updates
-
-## Bulk Update
-
-The application includes a bulk update capability that allows users
-to update the status of multiple transactions in a single operation.
-
-This reduces repetitive actions when processing a large number of
-transactions.
+- Petty cash balance and spending overview
+- Expense entry and categorization
+- Transaction filtering
+- Expense status tracking
+- Bulk transaction status updates
+- Mobile-friendly interface
 
 ## Portfolio Note
 
-The portfolio version uses sanitized or fictional data.
-
-No company-identifying information, personal information, financial
-records, or production data should be included.
+All screenshots and examples in this repository are sanitized and use generic
+or fictional data. No company-identifying information, employee information,
+location names, production data, or proprietary branding is included.
 
 ## Technology
 
 - Microsoft Power Apps
-- SharePoint
-- Power Platform
+- Microsoft 365
+- Power Automate
+- Microsoft data services

@@ -1,44 +1,38 @@
-# Petty Cash Management — Portfolio Case Study
+# Petty Cash â€” Portfolio Case Study
 
 ## Business Challenge
 
-Managing and updating multiple petty cash transactions can involve
-repetitive manual actions, especially when several transactions require
-status changes.
+Managing petty cash expenses can involve repeated data entry, manual
+transaction review, and individual status updates.
 
 ## Solution
 
-Petty Cash Management provides a centralized application experience
-for reviewing transactions and tracking their processing status.
+Petty Cash provides a centralized mobile experience for recording expenses,
+reviewing transactions, monitoring spending, and updating transaction status.
 
-The solution also includes a bulk status update capability, allowing
-multiple transactions to be updated in a single operation.
+The solution includes filtering and a bulk-update workflow to make routine
+transaction processing more efficient.
 
 ## Key Benefits
 
-- Centralized transaction management
-- Clear transaction status tracking
-- Faster review of multiple transactions
-- Reduced repetitive manual updates
-- More consistent transaction processing
-
-## Bulk Update
-
-Bulk Update is a built-in feature of the application that enables
-users to update multiple transaction statuses together.
-
-It is designed to reduce repetitive actions when processing groups of
-transactions.
+- Centralized petty cash tracking
+- Faster expense entry
+- Easier transaction filtering
+- Clear spending and balance visibility
+- Reduced repetitive status updates
+- Mobile-friendly user experience
 
 ## Technology
 
 - Microsoft Power Apps
-- SharePoint
-- Power Platform
+- Microsoft 365
+- Power Automate
+- Microsoft data services
 
 ## Privacy
 
-The portfolio version must use sanitized or fictional data.
+The portfolio presentation intentionally removes company-identifying
+information, personal information, real locations, production data, and
+proprietary branding.
 
-No real financial records, employee information, company identity,
-or production data should be included.
+All examples and values are sanitized or fictional.

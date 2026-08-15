@@ -1,40 +1,27 @@
 # Features
 
-## Transaction Management
+## 1. Petty Cash Overview
 
-Provides a centralized interface for reviewing and managing petty cash
-transactions.
+The application provides a dashboard for monitoring the petty cash float,
+remaining balance, spending activity, and recent transactions.
 
-## Status Tracking
+## 2. Expense Entry
 
-Allows users to monitor transaction processing status and identify
-items that require further action.
+Users can record an expense by entering the amount, notes, document number,
+date, category, location, cost center, and status.
 
-## Transaction Review
+## 3. Transaction Tracking
 
-Users can search and review transaction information through a
-structured application interface.
+Transactions can be reviewed in a dedicated list with filters for month,
+category, cost center, document number, and status.
 
-## Bulk Status Update
+## 4. Bulk Status Update
 
-The application supports updating the status of multiple transactions
-in a single operation.
+Selected transactions can be updated together through a bulk-update workflow,
+reducing repetitive manual updates.
 
-This feature reduces repetitive manual actions and is particularly
-useful when processing multiple transactions.
+## 5. Sanitized Portfolio Presentation
 
-## Centralized Data
-
-Transaction information is maintained in a structured data source,
-providing a consistent view for application users.
-
-## Operational Efficiency
-
-The solution reduces repetitive manual updates and provides a more
-consistent workflow for routine transaction processing.
-
-## Portfolio Safety
-
-Portfolio screenshots and examples must use sanitized or fictional
-data. No real financial records, employee information, company
-identity, or production data should be exposed.
+The portfolio version uses generic data, generic locations and organizational
+labels, changed values, and neutral visuals to prevent exposure of company
+identity, employee information, or production data.
