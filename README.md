@@ -33,5 +33,4 @@ location names, production data, or proprietary branding is included.
 
 - Microsoft Power Apps
 - Microsoft 365
-- Microsoft data services
 
