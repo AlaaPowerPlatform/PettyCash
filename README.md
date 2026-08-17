@@ -1,5 +1,8 @@
 # Petty Cash
 
+![PettyCash — Sanitized Overview](Screenshots/sanitized/PettyCash-Sanitized-Overview.png)
+
+
 A mobile petty cash management solution designed to simplify expense entry,
 transaction tracking, review, and status updates.
 
